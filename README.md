@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [qr-code](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Rafaath11/qr-code/)
+- Live Site URL: [qr-code](https://qr-code-delta-murex.vercel.app/)
 
 ## My process
 
@@ -62,6 +62,6 @@ Cards are quite useful in websites to showcase various projects and ideas. I'am 
 
 ## Author
 
-- Website - [Rafaath](https://www.your-site.com)
+- Website - [Rafaath](https://qr-code-delta-murex.vercel.app/)
 - Frontend Mentor - [@Rafaath11](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@PixelPop212](https://www.twitter.com/yourusername)
